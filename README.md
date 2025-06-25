@@ -30,7 +30,7 @@ No JavaScript, frameworks, or backend required.
 1. Clone the repo:
    ```bash
    git clone https://github.com/BitGladiator/StudySync-miniproject.git
-````
+
 
 2. Open `index.html` in your browser — that’s it!
 
