@@ -1,6 +1,3 @@
-### 📄 `README.md`
-
-````markdown
 # 🎓 StudySync — Mini Project
 
 **StudySync** is a responsive frontend-only website built using HTML and CSS. It’s designed as a clean, modern interface for a fictional academic platform where students and teachers can stay in sync through shared content and communication.
