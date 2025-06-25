@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Us | StudySync</title>
+  <link rel="stylesheet" href="./styles/contact.css" />
+</head>
+<body>
+  <header class="header">
+    <a href="Study.html" class="logo">
+        <img src="./images/StudySyn.svg" alt="logoImage" class="logo-icon" />
+        <span class="logo-text">StudySync</span>
+    </a>
+    <nav>
+      <a href="Study.html">Home</a>
+      <a href="#">Features</a>
+      <a href="#">Pricing</a>
+      <a href="#">Blog</a>
+      <a href="aboutUs.html">About</a>
+    </nav>
+  </header>
+
+  <main class="contact-page">
+    <section class="contact-form-container">
+      <h1>Contact Us</h1>
+      <p>Have questions? We'd love to hear from you!</p>
+
+      <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="form">
+        <div class="form-group">
+          <label for="name">Your Name</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+        <div class="form-group">
+          <label for="email">Your Email</label>
+          <input type="email" id="email" name="_replyto" required />
+        </div>
+        <div class="form-group">
+          <label for="message">Your Message</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="submit-btn">Send Message</button>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
