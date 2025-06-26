@@ -22,6 +22,10 @@ No JavaScript, frameworks, or backend required.
 
 ---
 
+## 🌍 Live Demo
+[Click here to view the live demo](https://study-sync-miniproject.vercel.app/)
+
+---
 ## 🚀 Getting Started
 
 ### 🖥️ View Locally
@@ -68,5 +72,3 @@ Made with ❤️ by [Karan Sharma](https://github.com/BitGladiator)
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
-
-```
