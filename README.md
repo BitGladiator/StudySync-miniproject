@@ -1,19 +1,19 @@
-# 🎓 StudySync — Mini Project
+# StudySync — Mini Project
 
 **StudySync** is a responsive frontend-only website built using HTML and CSS. It’s designed as a clean, modern interface for a fictional academic platform where students and teachers can stay in sync through shared content and communication.
 
 ---
 
-## 🌟 Features
+##  Features
 
-- ✅ Clean, professional UI design
-- 📱 Fully responsive layout for mobile, tablet, and desktop
-- 🎨 Modern styling using only HTML and CSS (no frameworks!)
-- 📂 Organized project structure
+-  Clean, professional UI design
+-  Fully responsive layout for mobile, tablet, and desktop
+-  Modern styling using only HTML and CSS (no frameworks!)
+-  Organized project structure
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -22,13 +22,13 @@ No JavaScript, frameworks, or backend required.
 
 ---
 
-## 🌍 Live Demo
+##  Live Demo
 [Click here to view the live demo](https://study-sync-miniproject.vercel.app/)
 
 ---
-## 🚀 Getting Started
+##  Getting Started
 
-### 🖥️ View Locally
+###  View Locally
 
 
 1. Clone the repo:
@@ -40,7 +40,7 @@ No JavaScript, frameworks, or backend required.
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 StudySync-miniproject/
@@ -53,17 +53,17 @@ StudySync-miniproject/
     └── images/
 ```
 
-> 📌 Customize this section to match your actual file layout.
+>  Customize this section to match your actual file layout.
 
 ---
 
-## 🧠 Inspiration
+##  Inspiration
 
 Built as a part of a frontend mini project challenge to sharpen HTML/CSS skills while focusing on layout, responsiveness, and clean code.
 
 ---
 
-## 🙌 Credits
+##  Credits
 
 Made with ❤️ by [Karan Sharma](https://github.com/BitGladiator)
 
